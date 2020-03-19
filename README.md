@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/564cfac6a036400d8d92c49ed3be9f48)](https://www.codacy.com/manual/it.ahapx/final_project?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=aharxict/final_project&amp;utm_campaign=Badge_Grade)
+
 # How to install app
 
 Install yarn `npm install -g yarn`
